@@ -1,0 +1,82 @@
+{
+  "groups": [
+    {
+      "name": "redis.server",
+      "type": "com.muye.kl.config.redis.RedisProperties",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "redis.server.cache-invalid",
+      "type": "java.lang.Integer",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "redis.server.cache-invalid2",
+      "type": "java.lang.Integer",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "redis.server.cache-invalid3",
+      "type": "java.lang.Integer",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "redis.server.host",
+      "type": "java.lang.String",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties"
+    },
+    {
+      "name": "redis.server.max-active",
+      "type": "java.lang.Integer",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "redis.server.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "redis.server.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "redis.server.max-wait-millis",
+      "type": "java.lang.Integer",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "redis.server.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "redis.server.password",
+      "type": "java.lang.String",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties"
+    },
+    {
+      "name": "redis.server.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "redis.server.time-out",
+      "type": "java.lang.Integer",
+      "sourceType": "com.muye.kl.config.redis.RedisProperties",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}
